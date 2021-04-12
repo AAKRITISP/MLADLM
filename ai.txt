@@ -1,0 +1,59 @@
+augmented ai- human built smthing
+code that machine will be able to take decsions
+ai example:
+auto generated: email responses
+nlp: text summarisations
+text generations
+ola uber:traffic in city,approx cost,
+weather after a while
+netflix: graph suggestion to user
+recommendation system
+amazon: suggestion to user
+
+text summarisation: sort news approx
+google appp:
+supply chain:
+facial recognition			
+how to find a pattern in the data in machine learning
+
+agriculture industry: google coral
+
+ai first we need to find the scope and then learn algorithm
+
+health care:
+
+1. understadg business
+data available
+if data is sufficient or not
+create a dataset
+2.
+data preparation make etl pipeline to: 6 months to create this 
+poc needs 3weeks to 2months
+
+bu>etl>cloud ci/cp>big data>
+3. statistical analysis
+4. eda :
+5 model building:cmla customized : dev
+6 testing with diff data of diff set:uat
+
+7 production
+auto ml
+auto neuro
+bigdata
+bu:
+MLops:ocker kubernets kibana
+stats
+ml core algorithm]
+coud
+language: scala/python/java/c/c++
+
+create git hub
+create a new repository
+
+aws
+big data
+start python
+aplly models
+performance matrix
+and then 
+
